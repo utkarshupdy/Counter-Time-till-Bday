@@ -29,7 +29,7 @@ const timerFunction = ()=>{
 
     // }
     const intervalID = setInterval(() => {
-        const timer = new Date("05/30/2024").getTime()
+        const timer = new Date("06/29/2024").getTime()
         const today = new Date().getTime();
 
         const difference = timer - today
